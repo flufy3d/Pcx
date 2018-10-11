@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311918, g: 0.3807398, b: 0.35872716, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -88,6 +88,7 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaDirect: 0.5
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
+    m_ShowResolutionOverlay: 1
   m_LightingDataAsset: {fileID: 0}
   m_UseShadowmask: 1
 --- !u!196 &4
@@ -162,7 +163,8 @@ Prefab:
     - target: {fileID: 11400000, guid: a2b65c28dd57e524685b73b27ea5f74b, type: 3}
       propertyPath: _sourceData
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 11400002, guid: a2b65c28dd57e524685b73b27ea5f74b,
+        type: 3}
     - target: {fileID: 100000, guid: a2b65c28dd57e524685b73b27ea5f74b, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -297,3 +299,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _sourceData: {fileID: 11400002, guid: a2b65c28dd57e524685b73b27ea5f74b, type: 3}
   _computeShader: {fileID: 7200000, guid: 73cfbf44c40b4274cbf6937bcdc7951e, type: 3}
+  _param1: 0
+  _param2: 0
+  _param3: 0
+  _param4: 0

@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Pcx/Shaders/Point.shader">
+    <Files>
+      <File FileName="Assets/Pcx/Shaders/Point.shader" Line="80" Column="24" />
+      <File FileName="Assets/Pcx/Shaders/Common.cginc" Line="1" Column="1" />
+      <File FileName="Assets/Pcx/Editor/MaterialInspector.cs" Line="1" Column="1" />
+      <File FileName="Assets/Pcx/Shaders/Disk.shader" Line="1" Column="1" />
+      <File FileName="Assets/Pcx/Shaders/Disk.cginc" Line="1" Column="1" />
+      <File FileName="Assets/Pcx/Editor/PlyImporter.cs" Line="139" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
